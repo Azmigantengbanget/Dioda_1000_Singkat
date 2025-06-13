@@ -930,7 +930,6 @@
   { "en": "Apa itu TRIAC dioda?", "id": "Pengontrol AC." },
   { "en": "Dioda pada rangkaian timer?", "id": "Pengisian kapasitor." },
   { "en": "Dioda pada gerbang logika OR?", "id": "Digunakan dengan resistor." },
-  { "en": "Apa itu arus puncak non-repetitif?", "id": "Arus tunggal maksimum." },
   { "en": "Dioda untuk perlindungan tegangan rendah?", "id": "Tidak umum." },
   { "en": "Bagaimana dioda menghasilkan tegangan?", "id": "Efek fotovoltaik." },
   { "en": "Dioda dalam rangkaian multivibrator?", "id": "Stabilisasi frekuensi." },
