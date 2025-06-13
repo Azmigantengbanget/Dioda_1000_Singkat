@@ -1,0 +1,1 @@
+# Dioda_1000_Singkat
